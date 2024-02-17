@@ -47,6 +47,6 @@ class Secrets {
 }
 
 
-Screenshots
+
 ![WhatsApp Image 2024-02-15 at 19 14 58_e376806c](https://github.com/jatin1603/Real_time-weather-app/assets/79332951/6bb2e4ff-743b-4690-9b35-92452afba0a2)
 
